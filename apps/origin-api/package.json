@@ -1,0 +1,12 @@
+{
+  "name": "origin-api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

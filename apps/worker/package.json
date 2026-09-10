@@ -1,0 +1,13 @@
+{
+  "name": "edgewatch-worker",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "wrangler dev",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.131.0"
+  }
+}
